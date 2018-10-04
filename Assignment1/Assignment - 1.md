@@ -1,9 +1,5 @@
 ​											**Assignment - 1**
 
-Name - Paritosh Mahajan
-
-Batch - 7
-
 
 
 **1) Convolution** : 
