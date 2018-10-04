@@ -12,7 +12,9 @@ Convolution is a mathematical transformation which transforms an input image int
 
 Generally, to find the value of one pixel of the output image , the element wise multiplication and then summation is done for *every part of the input image* on which the kernel slides, *with the kernel* and when this is done for the complete input image, we get a complete output image.
 
-![1538648006035](C:\Users\parit\AppData\Roaming\Typora\typora-user-images\1538648006035.png)
+
+
+![Image result for convolution](https://camo.githubusercontent.com/3309220c48ab22c9a5dfe7656c3f1639b6b1755d/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6e3134713930677a386138726278622f32645f636f6e766f6c7574696f6e2e706e673f7261773d31)
 
 
 
